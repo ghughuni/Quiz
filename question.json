@@ -1,0 +1,82 @@
+{
+  "1": {
+    "question": "How many millimeters are in 1 cm?",
+    "a": "11 mm",
+    "b": "10 mm",
+    "c": "1 mm",
+    "d": "100 mm",
+    "answer": "10 mm"
+  },
+  "2": {
+    "question": "55+45=",
+    "a": "10",
+    "b": "100",
+    "c": "110",
+    "d": "105",
+    "answer": "100"
+  },
+  "3": {
+    "question": "How many months have 28 days?",
+    "a": "1 month",
+    "b": "6 months",
+    "c": "12 months",
+    "d": "4 months",
+    "answer": "12 months"
+  },
+  "4": {
+    "question": "A farmar had 17 goats. All but six died. How many survived?",
+    "a": "5 survived",
+    "b": "11 survived",
+    "c": "6 survived",
+    "d": "23 survived",
+    "answer": "6 survived"
+  },
+  "5": {
+    "question": "Barry's dad has three sons: Snap, Crackle, and _____.",
+    "a": "Barry",
+    "b": "Snap",
+    "c": "Crackle",
+    "d": "Impossible to guess",
+    "answer": "Barry"
+  },
+  "6": {
+    "question": "If you freeze water, what do you get?",
+    "a": "A nail",
+    "b": "Green",
+    "c": "A stone",
+    "d": "Ice",
+    "answer": "Ice"
+  },
+  "7": {
+    "question": "12*11=",
+    "a": "121",
+    "b": "120",
+    "c": "132",
+    "d": "111",
+    "answer": "132"
+  },
+  "8": {
+    "question": "How many legs does a spider have?",
+    "a": "Two",
+    "b": "Nine",
+    "c": "Six",
+    "d": "Eight",
+    "answer": "Eight"
+  },
+  "9": {
+    "question": "What's the name of a place you go to see lots of animals?",
+    "a": "The school",
+    "b": "The stadium",
+    "c": "The factory",
+    "d": "The zoo",
+    "answer": "The zoo"
+  },
+  "10": {
+    "question": "Whose nose grew longer every time he lied?",
+    "a": "Pinocchio",
+    "b": "Tinkerbell",
+    "c": "Woody",
+    "d": "John",
+    "answer": "Pinocchio"
+  }
+}

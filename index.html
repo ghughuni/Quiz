@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz</title>
+</head>
+
+<body>
+    <!-- start section -->
+    <section id="start">
+        <h1>Your name:</h1>
+        <input id="name" type="text" placeholder="name...">
+        <p>(You have 1 minute)</p>
+        <button id="btn-start">start</button>
+    </section>
+    <!-- question section -->
+    <div id="container">
+        <div id="time">Time:</div>
+        <div id="change-sections">
+        </div>
+        <footer><button id="btn-next">Next</button></footer>
+        <p id="id"></p>
+    </div>
+    <!--  finished section -->
+    <section id="finish">
+        <div class="result-header">
+            <h1 id="name-result"></h1>
+            <p>Your score:</p>
+        </div>
+        <div class="result-footer">
+            <p id="score"></p>
+        </div>
+        <button id="btn-again">Again</button>
+
+    </section>
+    <script src="main.js"></script>
+</body>
+
+</html>
